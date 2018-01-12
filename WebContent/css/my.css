@@ -1,0 +1,26 @@
+.jqGrid_wrapper{
+	height:100%;
+}
+#toolbar{
+	height:40px;
+	position:fixed;
+	bottom:0;
+	background-color:#FFFFFFFF;
+}
+#tb{
+	overflow:auto;
+	height:100%;
+}
+.ui-jqgrid {
+	border-bottom:0;
+}
+.ui-jqgrid-view {
+	
+}
+.ui-jqgrid-hdiv{
+	
+}
+.ui-jqgrid-bdiv{
+	
+	
+}

@@ -1,0 +1,791 @@
+[
+    {
+        "icon": "glyphicon glyphicon-asterisk"
+    },
+    {
+        "icon": "glyphicon glyphicon-plus"
+    },
+    {
+        "icon": "glyphicon glyphicon-euro"
+    },
+    {
+        "icon": "glyphicon glyphicon-eur"
+    },
+    {
+        "icon": "glyphicon glyphicon-minus"
+    },
+    {
+        "icon": "glyphicon glyphicon-cloud"
+    },
+    {
+        "icon": "glyphicon glyphicon-envelope"
+    },
+    {
+        "icon": "glyphicon glyphicon-pencil"
+    },
+    {
+        "icon": "glyphicon glyphicon-glass"
+    },
+    {
+        "icon": "glyphicon glyphicon-music"
+    },
+    {
+        "icon": "glyphicon glyphicon-search"
+    },
+    {
+        "icon": "glyphicon glyphicon-heart"
+    },
+    {
+        "icon": "glyphicon glyphicon-star"
+    },
+    {
+        "icon": "glyphicon glyphicon-star-empty"
+    },
+    {
+        "icon": "glyphicon glyphicon-user"
+    },
+    {
+        "icon": "glyphicon glyphicon-film"
+    },
+    {
+        "icon": "glyphicon glyphicon-th-large"
+    },
+    {
+        "icon": "glyphicon glyphicon-th"
+    },
+    {
+        "icon": "glyphicon glyphicon-th-list"
+    },
+    {
+        "icon": "glyphicon glyphicon-ok"
+    },
+    {
+        "icon": "glyphicon glyphicon-remove"
+    },
+    {
+        "icon": "glyphicon glyphicon-zoom-in"
+    },
+    {
+        "icon": "glyphicon glyphicon-zoom-out"
+    },
+    {
+        "icon": "glyphicon glyphicon-off"
+    },
+    {
+        "icon": "glyphicon glyphicon-signal"
+    },
+    {
+        "icon": "glyphicon glyphicon-cog"
+    },
+    {
+        "icon": "glyphicon glyphicon-trash"
+    },
+    {
+        "icon": "glyphicon glyphicon-home"
+    },
+    {
+        "icon": "glyphicon glyphicon-file"
+    },
+    {
+        "icon": "glyphicon glyphicon-time"
+    },
+    {
+        "icon": "glyphicon glyphicon-road"
+    },
+    {
+        "icon": "glyphicon glyphicon-download-alt"
+    },
+    {
+        "icon": "glyphicon glyphicon-download"
+    },
+    {
+        "icon": "glyphicon glyphicon-upload"
+    },
+    {
+        "icon": "glyphicon glyphicon-inbox"
+    },
+    {
+        "icon": "glyphicon glyphicon-play-circle"
+    },
+    {
+        "icon": "glyphicon glyphicon-repeat"
+    },
+    {
+        "icon": "glyphicon glyphicon-refresh"
+    },
+    {
+        "icon": "glyphicon glyphicon-list-alt"
+    },
+    {
+        "icon": "glyphicon glyphicon-lock"
+    },
+    {
+        "icon": "glyphicon glyphicon-flag"
+    },
+    {
+        "icon": "glyphicon glyphicon-headphones"
+    },
+    {
+        "icon": "glyphicon glyphicon-volume-off"
+    },
+    {
+        "icon": "glyphicon glyphicon-volume-down"
+    },
+    {
+        "icon": "glyphicon glyphicon-volume-up"
+    },
+    {
+        "icon": "glyphicon glyphicon-qrcode"
+    },
+    {
+        "icon": "glyphicon glyphicon-barcode"
+    },
+    {
+        "icon": "glyphicon glyphicon-tag"
+    },
+    {
+        "icon": "glyphicon glyphicon-tags"
+    },
+    {
+        "icon": "glyphicon glyphicon-book"
+    },
+    {
+        "icon": "glyphicon glyphicon-bookmark"
+    },
+    {
+        "icon": "glyphicon glyphicon-print"
+    },
+    {
+        "icon": "glyphicon glyphicon-camera"
+    },
+    {
+        "icon": "glyphicon glyphicon-font"
+    },
+    {
+        "icon": "glyphicon glyphicon-bold"
+    },
+    {
+        "icon": "glyphicon glyphicon-italic"
+    },
+    {
+        "icon": "glyphicon glyphicon-text-height"
+    },
+    {
+        "icon": "glyphicon glyphicon-text-width"
+    },
+    {
+        "icon": "glyphicon glyphicon-align-left"
+    },
+    {
+        "icon": "glyphicon glyphicon-align-center"
+    },
+    {
+        "icon": "glyphicon glyphicon-align-right"
+    },
+    {
+        "icon": "glyphicon glyphicon-align-justify"
+    },
+    {
+        "icon": "glyphicon glyphicon-list"
+    },
+    {
+        "icon": "glyphicon glyphicon-indent-left"
+    },
+    {
+        "icon": "glyphicon glyphicon-indent-right"
+    },
+    {
+        "icon": "glyphicon glyphicon-facetime-video"
+    },
+    {
+        "icon": "glyphicon glyphicon-picture"
+    },
+    {
+        "icon": "glyphicon glyphicon-map-marker"
+    },
+    {
+        "icon": "glyphicon glyphicon-adjust"
+    },
+    {
+        "icon": "glyphicon glyphicon-tint"
+    },
+    {
+        "icon": "glyphicon glyphicon-edit"
+    },
+    {
+        "icon": "glyphicon glyphicon-share"
+    },
+    {
+        "icon": "glyphicon glyphicon-check"
+    },
+    {
+        "icon": "glyphicon glyphicon-move"
+    },
+    {
+        "icon": "glyphicon glyphicon-step-backward"
+    },
+    {
+        "icon": "glyphicon glyphicon-fast-backward"
+    },
+    {
+        "icon": "glyphicon glyphicon-backward"
+    },
+    {
+        "icon": "glyphicon glyphicon-play"
+    },
+    {
+        "icon": "glyphicon glyphicon-pause"
+    },
+    {
+        "icon": "glyphicon glyphicon-stop"
+    },
+    {
+        "icon": "glyphicon glyphicon-forward"
+    },
+    {
+        "icon": "glyphicon glyphicon-fast-forward"
+    },
+    {
+        "icon": "glyphicon glyphicon-step-forward"
+    },
+    {
+        "icon": "glyphicon glyphicon-eject"
+    },
+    {
+        "icon": "glyphicon glyphicon-chevron-left"
+    },
+    {
+        "icon": "glyphicon glyphicon-chevron-right"
+    },
+    {
+        "icon": "glyphicon glyphicon-plus-sign"
+    },
+    {
+        "icon": "glyphicon glyphicon-minus-sign"
+    },
+    {
+        "icon": "glyphicon glyphicon-remove-sign"
+    },
+    {
+        "icon": "glyphicon glyphicon-ok-sign"
+    },
+    {
+        "icon": "glyphicon glyphicon-question-sign"
+    },
+    {
+        "icon": "glyphicon glyphicon-info-sign"
+    },
+    {
+        "icon": "glyphicon glyphicon-screenshot"
+    },
+    {
+        "icon": "glyphicon glyphicon-remove-circle"
+    },
+    {
+        "icon": "glyphicon glyphicon-ok-circle"
+    },
+    {
+        "icon": "glyphicon glyphicon-ban-circle"
+    },
+    {
+        "icon": "glyphicon glyphicon-arrow-left"
+    },
+    {
+        "icon": "glyphicon glyphicon-arrow-right"
+    },
+    {
+        "icon": "glyphicon glyphicon-arrow-up"
+    },
+    {
+        "icon": "glyphicon glyphicon-arrow-down"
+    },
+    {
+        "icon": "glyphicon glyphicon-share-alt"
+    },
+    {
+        "icon": "glyphicon glyphicon-resize-full"
+    },
+    {
+        "icon": "glyphicon glyphicon-resize-small"
+    },
+    {
+        "icon": "glyphicon glyphicon-exclamation-sign"
+    },
+    {
+        "icon": "glyphicon glyphicon-gift"
+    },
+    {
+        "icon": "glyphicon glyphicon-leaf"
+    },
+    {
+        "icon": "glyphicon glyphicon-fire"
+    },
+    {
+        "icon": "glyphicon glyphicon-eye-open"
+    },
+    {
+        "icon": "glyphicon glyphicon-eye-close"
+    },
+    {
+        "icon": "glyphicon glyphicon-warning-sign"
+    },
+    {
+        "icon": "glyphicon glyphicon-plane"
+    },
+    {
+        "icon": "glyphicon glyphicon-calendar"
+    },
+    {
+        "icon": "glyphicon glyphicon-random"
+    },
+    {
+        "icon": "glyphicon glyphicon-comment"
+    },
+    {
+        "icon": "glyphicon glyphicon-magnet"
+    },
+    {
+        "icon": "glyphicon glyphicon-chevron-up"
+    },
+    {
+        "icon": "glyphicon glyphicon-chevron-down"
+    },
+    {
+        "icon": "glyphicon glyphicon-retweet"
+    },
+    {
+        "icon": "glyphicon glyphicon-shopping-cart"
+    },
+    {
+        "icon": "glyphicon glyphicon-folder-close"
+    },
+    {
+        "icon": "glyphicon glyphicon-folder-open"
+    },
+    {
+        "icon": "glyphicon glyphicon-resize-vertical"
+    },
+    {
+        "icon": "glyphicon glyphicon-resize-horizontal"
+    },
+    {
+        "icon": "glyphicon glyphicon-hdd"
+    },
+    {
+        "icon": "glyphicon glyphicon-bullhorn"
+    },
+    {
+        "icon": "glyphicon glyphicon-bell"
+    },
+    {
+        "icon": "glyphicon glyphicon-certificate"
+    },
+    {
+        "icon": "glyphicon glyphicon-thumbs-up"
+    },
+    {
+        "icon": "glyphicon glyphicon-thumbs-down"
+    },
+    {
+        "icon": "glyphicon glyphicon-hand-right"
+    },
+    {
+        "icon": "glyphicon glyphicon-hand-left"
+    },
+    {
+        "icon": "glyphicon glyphicon-hand-up"
+    },
+    {
+        "icon": "glyphicon glyphicon-hand-down"
+    },
+    {
+        "icon": "glyphicon glyphicon-circle-arrow-right"
+    },
+    {
+        "icon": "glyphicon glyphicon-circle-arrow-left"
+    },
+    {
+        "icon": "glyphicon glyphicon-circle-arrow-up"
+    },
+    {
+        "icon": "glyphicon glyphicon-circle-arrow-down"
+    },
+    {
+        "icon": "glyphicon glyphicon-globe"
+    },
+    {
+        "icon": "glyphicon glyphicon-wrench"
+    },
+    {
+        "icon": "glyphicon glyphicon-tasks"
+    },
+    {
+        "icon": "glyphicon glyphicon-filter"
+    },
+    {
+        "icon": "glyphicon glyphicon-briefcase"
+    },
+    {
+        "icon": "glyphicon glyphicon-fullscreen"
+    },
+    {
+        "icon": "glyphicon glyphicon-dashboard"
+    },
+    {
+        "icon": "glyphicon glyphicon-paperclip"
+    },
+    {
+        "icon": "glyphicon glyphicon-heart-empty"
+    },
+    {
+        "icon": "glyphicon glyphicon-link"
+    },
+    {
+        "icon": "glyphicon glyphicon-phone"
+    },
+    {
+        "icon": "glyphicon glyphicon-pushpin"
+    },
+    {
+        "icon": "glyphicon glyphicon-usd"
+    },
+    {
+        "icon": "glyphicon glyphicon-gbp"
+    },
+    {
+        "icon": "glyphicon glyphicon-sort"
+    },
+    {
+        "icon": "glyphicon glyphicon-sort-by-alphabet"
+    },
+    {
+        "icon": "glyphicon glyphicon-sort-by-alphabet-alt"
+    },
+    {
+        "icon": "glyphicon glyphicon-sort-by-order"
+    },
+    {
+        "icon": "glyphicon glyphicon-sort-by-order-alt"
+    },
+    {
+        "icon": "glyphicon glyphicon-sort-by-attributes"
+    },
+    {
+        "icon": "glyphicon glyphicon-sort-by-attributes-alt"
+    },
+    {
+        "icon": "glyphicon glyphicon-unchecked"
+    },
+    {
+        "icon": "glyphicon glyphicon-expand"
+    },
+    {
+        "icon": "glyphicon glyphicon-collapse-down"
+    },
+    {
+        "icon": "glyphicon glyphicon-collapse-up"
+    },
+    {
+        "icon": "glyphicon glyphicon-log-in"
+    },
+    {
+        "icon": "glyphicon glyphicon-flash"
+    },
+    {
+        "icon": "glyphicon glyphicon-log-out"
+    },
+    {
+        "icon": "glyphicon glyphicon-new-window"
+    },
+    {
+        "icon": "glyphicon glyphicon-record"
+    },
+    {
+        "icon": "glyphicon glyphicon-save"
+    },
+    {
+        "icon": "glyphicon glyphicon-open"
+    },
+    {
+        "icon": "glyphicon glyphicon-saved"
+    },
+    {
+        "icon": "glyphicon glyphicon-import"
+    },
+    {
+        "icon": "glyphicon glyphicon-export"
+    },
+    {
+        "icon": "glyphicon glyphicon-send"
+    },
+    {
+        "icon": "glyphicon glyphicon-floppy-disk"
+    },
+    {
+        "icon": "glyphicon glyphicon-floppy-saved"
+    },
+    {
+        "icon": "glyphicon glyphicon-floppy-remove"
+    },
+    {
+        "icon": "glyphicon glyphicon-floppy-save"
+    },
+    {
+        "icon": "glyphicon glyphicon-floppy-open"
+    },
+    {
+        "icon": "glyphicon glyphicon-credit-card"
+    },
+    {
+        "icon": "glyphicon glyphicon-transfer"
+    },
+    {
+        "icon": "glyphicon glyphicon-cutlery"
+    },
+    {
+        "icon": "glyphicon glyphicon-header"
+    },
+    {
+        "icon": "glyphicon glyphicon-compressed"
+    },
+    {
+        "icon": "glyphicon glyphicon-earphone"
+    },
+    {
+        "icon": "glyphicon glyphicon-phone-alt"
+    },
+    {
+        "icon": "glyphicon glyphicon-tower"
+    },
+    {
+        "icon": "glyphicon glyphicon-stats"
+    },
+    {
+        "icon": "glyphicon glyphicon-sd-video"
+    },
+    {
+        "icon": "glyphicon glyphicon-hd-video"
+    },
+    {
+        "icon": "glyphicon glyphicon-subtitles"
+    },
+    {
+        "icon": "glyphicon glyphicon-sound-stereo"
+    },
+    {
+        "icon": "glyphicon glyphicon-sound-dolby"
+    },
+    {
+        "icon": "glyphicon glyphicon-sound-5-1"
+    },
+    {
+        "icon": "glyphicon glyphicon-sound-6-1"
+    },
+    {
+        "icon": "glyphicon glyphicon-sound-7-1"
+    },
+    {
+        "icon": "glyphicon glyphicon-copyright-mark"
+    },
+    {
+        "icon": "glyphicon glyphicon-registration-mark"
+    },
+    {
+        "icon": "glyphicon glyphicon-cloud-download"
+    },
+    {
+        "icon": "glyphicon glyphicon-cloud-upload"
+    },
+    {
+        "icon": "glyphicon glyphicon-tree-conifer"
+    },
+    {
+        "icon": "glyphicon glyphicon-tree-deciduous"
+    },
+    {
+        "icon": "glyphicon glyphicon-cd"
+    },
+    {
+        "icon": "glyphicon glyphicon-save-file"
+    },
+    {
+        "icon": "glyphicon glyphicon-open-file"
+    },
+    {
+        "icon": "glyphicon glyphicon-level-up"
+    },
+    {
+        "icon": "glyphicon glyphicon-copy"
+    },
+    {
+        "icon": "glyphicon glyphicon-paste"
+    },
+    {
+        "icon": "glyphicon glyphicon-alert"
+    },
+    {
+        "icon": "glyphicon glyphicon-equalizer"
+    },
+    {
+        "icon": "glyphicon glyphicon-king"
+    },
+    {
+        "icon": "glyphicon glyphicon-queen"
+    },
+    {
+        "icon": "glyphicon glyphicon-pawn"
+    },
+    {
+        "icon": "glyphicon glyphicon-bishop"
+    },
+    {
+        "icon": "glyphicon glyphicon-knight"
+    },
+    {
+        "icon": "glyphicon glyphicon-baby-formula"
+    },
+    {
+        "icon": "glyphicon glyphicon-tent"
+    },
+    {
+        "icon": "glyphicon glyphicon-blackboard"
+    },
+    {
+        "icon": "glyphicon glyphicon-bed"
+    },
+    {
+        "icon": "glyphicon glyphicon-apple"
+    },
+    {
+        "icon": "glyphicon glyphicon-erase"
+    },
+    {
+        "icon": "glyphicon glyphicon-hourglass"
+    },
+    {
+        "icon": "glyphicon glyphicon-lamp"
+    },
+    {
+        "icon": "glyphicon glyphicon-duplicate"
+    },
+    {
+        "icon": "glyphicon glyphicon-piggy-bank"
+    },
+    {
+        "icon": "glyphicon glyphicon-scissors"
+    },
+    {
+        "icon": "glyphicon glyphicon-bitcoin"
+    },
+    {
+        "icon": "glyphicon glyphicon-btc"
+    },
+    {
+        "icon": "glyphicon glyphicon-xbt"
+    },
+    {
+        "icon": "glyphicon glyphicon-yen"
+    },
+    {
+        "icon": "glyphicon glyphicon-jpy"
+    },
+    {
+        "icon": "glyphicon glyphicon-ruble"
+    },
+    {
+        "icon": "glyphicon glyphicon-rub"
+    },
+    {
+        "icon": "glyphicon glyphicon-scale"
+    },
+    {
+        "icon": "glyphicon glyphicon-ice-lolly"
+    },
+    {
+        "icon": "glyphicon glyphicon-ice-lolly-tasted"
+    },
+    {
+        "icon": "glyphicon glyphicon-education"
+    },
+    {
+        "icon": "glyphicon glyphicon-option-horizontal"
+    },
+    {
+        "icon": "glyphicon glyphicon-option-vertical"
+    },
+    {
+        "icon": "glyphicon glyphicon-menu-hamburger"
+    },
+    {
+        "icon": "glyphicon glyphicon-modal-window"
+    },
+    {
+        "icon": "glyphicon glyphicon-oil"
+    },
+    {
+        "icon": "glyphicon glyphicon-grain"
+    },
+    {
+        "icon": "glyphicon glyphicon-sunglasses"
+    },
+    {
+        "icon": "glyphicon glyphicon-text-size"
+    },
+    {
+        "icon": "glyphicon glyphicon-text-color"
+    },
+    {
+        "icon": "glyphicon glyphicon-text-background"
+    },
+    {
+        "icon": "glyphicon glyphicon-object-align-top"
+    },
+    {
+        "icon": "glyphicon glyphicon-object-align-bottom"
+    },
+    {
+        "icon": "glyphicon glyphicon-object-align-horizontal"
+    },
+    {
+        "icon": "glyphicon glyphicon-object-align-left"
+    },
+    {
+        "icon": "glyphicon glyphicon-object-align-vertical"
+    },
+    {
+        "icon": "glyphicon glyphicon-object-align-right"
+    },
+    {
+        "icon": "glyphicon glyphicon-triangle-right"
+    },
+    {
+        "icon": "glyphicon glyphicon-triangle-left"
+    },
+    {
+        "icon": "glyphicon glyphicon-triangle-bottom"
+    },
+    {
+        "icon": "glyphicon glyphicon-triangle-top"
+    },
+    {
+        "icon": "glyphicon glyphicon-console"
+    },
+    {
+        "icon": "glyphicon glyphicon-superscript"
+    },
+    {
+        "icon": "glyphicon glyphicon-subscript"
+    },
+    {
+        "icon": "glyphicon glyphicon-menu-left"
+    },
+    {
+        "icon": "glyphicon glyphicon-menu-right"
+    },
+    {
+        "icon": "glyphicon glyphicon-menu-down"
+    },
+    {
+        "icon": "glyphicon glyphicon-menu-up"
+    }
+]
